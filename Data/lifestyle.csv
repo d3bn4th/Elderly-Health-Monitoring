@@ -1,0 +1,501 @@
+lifestyle_id,user_id,smoking,alcohol_units,timestamp
+1,1,Past smoker (stopped at least 6 months),1.5,2024-03-20 08:00:00
+2,2,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+3,3,Past smoker (stopped at least 6 months),14,2024-03-20 08:00:00
+4,4,Past smoker (stopped at least 6 months),18,2024-03-20 08:00:00
+5,5,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+6,6,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+7,7,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+8,8,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+9,9,Past smoker (stopped at least 6 months),63,2024-03-20 08:00:00
+10,10,Past smoker (stopped at least 6 months),20,2024-03-20 08:00:00
+11,11,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+12,12,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+13,13,Never smoked,0,2024-03-20 08:00:00
+14,14,Never smoked,0,2024-03-20 08:00:00
+15,15,Never smoked,0,2024-03-20 08:00:00
+16,16,Never smoked,0,2024-03-20 08:00:00
+17,17,Never smoked,0,2024-03-20 08:00:00
+18,18,Never smoked,1,2024-03-20 08:00:00
+19,19,Never smoked,0,2024-03-20 08:00:00
+20,20,Never smoked,0,2024-03-20 08:00:00
+21,21,Never smoked,0,2024-03-20 08:00:00
+22,22,Never smoked,0,2024-03-20 08:00:00
+23,23,Never smoked,0,2024-03-20 08:00:00
+24,24,Never smoked,0,2024-03-20 08:00:00
+25,25,Never smoked,0,2024-03-20 08:00:00
+26,26,Never smoked,0,2024-03-20 08:00:00
+27,27,Never smoked,0,2024-03-20 08:00:00
+28,28,Never smoked,0,2024-03-20 08:00:00
+29,29,Current smoker,0,2024-03-20 08:00:00
+30,30,Current smoker,2,2024-03-20 08:00:00
+31,31,Current smoker,0,2024-03-20 08:00:00
+32,32,Current smoker,0,2024-03-20 08:00:00
+33,33,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+34,34,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+35,35,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+36,36,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+37,37,Never smoked,0,2024-03-20 08:00:00
+38,38,Never smoked,1,2024-03-20 08:00:00
+39,39,Never smoked,0,2024-03-20 08:00:00
+40,40,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+41,41,Past smoker (stopped at least 6 months),4,2024-03-20 08:00:00
+42,42,Past smoker (stopped at least 6 months),6,2024-03-20 08:00:00
+43,43,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+44,44,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+45,45,Never smoked,3,2024-03-20 08:00:00
+46,46,Never smoked,4.5,2024-03-20 08:00:00
+47,47,Never smoked,5,2024-03-20 08:00:00
+48,48,Never smoked,12,2024-03-20 08:00:00
+49,49,Never smoked,0,2024-03-20 08:00:00
+50,50,Never smoked,0,2024-03-20 08:00:00
+51,51,Never smoked,0,2024-03-20 08:00:00
+52,52,Never smoked,0,2024-03-20 08:00:00
+53,53,Never smoked,0,2024-03-20 08:00:00
+54,54,Never smoked,0,2024-03-20 08:00:00
+55,55,Never smoked,0,2024-03-20 08:00:00
+56,56,Never smoked,0,2024-03-20 08:00:00
+57,57,Never smoked,0,2024-03-20 08:00:00
+58,58,Never smoked,1,2024-03-20 08:00:00
+59,59,Never smoked,0,2024-03-20 08:00:00
+60,60,Never smoked,0,2024-03-20 08:00:00
+61,61,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+62,62,Past smoker (stopped at least 6 months),2,2024-03-20 08:00:00
+63,63,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+64,64,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+65,65,Never smoked,1,2024-03-20 08:00:00
+66,66,Never smoked,1,2024-03-20 08:00:00
+67,67,Never smoked,1,2024-03-20 08:00:00
+68,68,Never smoked,0,2024-03-20 08:00:00
+69,69,Never smoked,3,2024-03-20 08:00:00
+70,70,Never smoked,1,2024-03-20 08:00:00
+71,71,Never smoked,0,2024-03-20 08:00:00
+72,72,Never smoked,0,2024-03-20 08:00:00
+73,73,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+74,74,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+75,75,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+76,76,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+77,77,Current smoker,2,2024-03-20 08:00:00
+78,78,Current smoker,3,2024-03-20 08:00:00
+79,79,Current smoker,1,2024-03-20 08:00:00
+80,80,Current smoker,1,2024-03-20 08:00:00
+81,81,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+82,82,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+83,83,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+84,84,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+85,85,Never smoked,1.5,2024-03-20 08:00:00
+86,86,Never smoked,1,2024-03-20 08:00:00
+87,87,Never smoked,0,2024-03-20 08:00:00
+88,88,Never smoked,1,2024-03-20 08:00:00
+89,89,Never smoked,0,2024-03-20 08:00:00
+90,90,Never smoked,1,2024-03-20 08:00:00
+91,91,Never smoked,0,2024-03-20 08:00:00
+92,92,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+93,93,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+94,94,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+95,95,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+96,96,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+97,97,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+98,98,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+99,99,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+100,100,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+101,101,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+102,102,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+103,103,Never smoked,0,2024-03-20 08:00:00
+104,104,Never smoked,0,2024-03-20 08:00:00
+105,105,Never smoked,0,2024-03-20 08:00:00
+106,106,Never smoked,1,2024-03-20 08:00:00
+107,107,Never smoked,0,2024-03-20 08:00:00
+108,108,Never smoked,0,2024-03-20 08:00:00
+109,109,Never smoked,0,2024-03-20 08:00:00
+110,110,Never smoked,3,2024-03-20 08:00:00
+111,111,Never smoked,2,2024-03-20 08:00:00
+112,112,Never smoked,2,2024-03-20 08:00:00
+113,113,Never smoked,2,2024-03-20 08:00:00
+114,114,Never smoked,2,2024-03-20 08:00:00
+115,115,Never smoked,2,2024-03-20 08:00:00
+116,116,Never smoked,2,2024-03-20 08:00:00
+117,117,Never smoked,0,2024-03-20 08:00:00
+118,118,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+119,119,Past smoker (stopped at least 6 months),63,2024-03-20 08:00:00
+120,120,Past smoker (stopped at least 6 months),20,2024-03-20 08:00:00
+121,121,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+122,122,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+123,123,Never smoked,0,2024-03-20 08:00:00
+124,124,Never smoked,0,2024-03-20 08:00:00
+125,125,Never smoked,0,2024-03-20 08:00:00
+126,126,Never smoked,0,2024-03-20 08:00:00
+127,127,Never smoked,0,2024-03-20 08:00:00
+128,128,Never smoked,1,2024-03-20 08:00:00
+129,129,Never smoked,0,2024-03-20 08:00:00
+130,130,Never smoked,0,2024-03-20 08:00:00
+131,131,Never smoked,0,2024-03-20 08:00:00
+132,132,Never smoked,0,2024-03-20 08:00:00
+133,133,Never smoked,0,2024-03-20 08:00:00
+134,134,Never smoked,0,2024-03-20 08:00:00
+135,135,Never smoked,0,2024-03-20 08:00:00
+136,136,Never smoked,0,2024-03-20 08:00:00
+137,137,Never smoked,0,2024-03-20 08:00:00
+138,138,Never smoked,0,2024-03-20 08:00:00
+139,139,Current smoker,0,2024-03-20 08:00:00
+140,140,Current smoker,2,2024-03-20 08:00:00
+141,141,Current smoker,0,2024-03-20 08:00:00
+142,142,Current smoker,0,2024-03-20 08:00:00
+143,143,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+144,144,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+145,145,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+146,146,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+147,147,Never smoked,0,2024-03-20 08:00:00
+148,148,Never smoked,1,2024-03-20 08:00:00
+149,149,Never smoked,0,2024-03-20 08:00:00
+150,150,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+151,151,Past smoker (stopped at least 6 months),4,2024-03-20 08:00:00
+152,152,Past smoker (stopped at least 6 months),6,2024-03-20 08:00:00
+153,153,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+154,154,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+155,155,Never smoked,3,2024-03-20 08:00:00
+156,156,Never smoked,4.5,2024-03-20 08:00:00
+157,157,Never smoked,5,2024-03-20 08:00:00
+158,158,Never smoked,12,2024-03-20 08:00:00
+159,159,Never smoked,0,2024-03-20 08:00:00
+160,160,Never smoked,0,2024-03-20 08:00:00
+161,161,Never smoked,0,2024-03-20 08:00:00
+162,162,Never smoked,0,2024-03-20 08:00:00
+163,163,Never smoked,0,2024-03-20 08:00:00
+164,164,Never smoked,0,2024-03-20 08:00:00
+165,165,Never smoked,0,2024-03-20 08:00:00
+166,166,Never smoked,0,2024-03-20 08:00:00
+167,167,Never smoked,0,2024-03-20 08:00:00
+168,168,Never smoked,1,2024-03-20 08:00:00
+169,169,Never smoked,0,2024-03-20 08:00:00
+170,170,Never smoked,0,2024-03-20 08:00:00
+171,171,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+172,172,Past smoker (stopped at least 6 months),2,2024-03-20 08:00:00
+173,173,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+174,174,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+175,175,Never smoked,1,2024-03-20 08:00:00
+176,176,Never smoked,1,2024-03-20 08:00:00
+177,177,Never smoked,1,2024-03-20 08:00:00
+178,178,Never smoked,0,2024-03-20 08:00:00
+179,179,Never smoked,3,2024-03-20 08:00:00
+180,180,Never smoked,1,2024-03-20 08:00:00
+181,181,Never smoked,0,2024-03-20 08:00:00
+182,182,Never smoked,0,2024-03-20 08:00:00
+183,183,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+184,184,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+185,185,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+186,186,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+187,187,Current smoker,2,2024-03-20 08:00:00
+188,188,Current smoker,3,2024-03-20 08:00:00
+189,189,Current smoker,1,2024-03-20 08:00:00
+190,190,Current smoker,1,2024-03-20 08:00:00
+191,191,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+192,192,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+193,193,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+194,194,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+195,195,Never smoked,1.5,2024-03-20 08:00:00
+196,196,Never smoked,1,2024-03-20 08:00:00
+197,197,Never smoked,0,2024-03-20 08:00:00
+198,198,Never smoked,1,2024-03-20 08:00:00
+199,199,Never smoked,0,2024-03-20 08:00:00
+200,200,Never smoked,1,2024-03-20 08:00:00
+201,201,Never smoked,0,2024-03-20 08:00:00
+202,202,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+203,203,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+204,204,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+205,205,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+206,206,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+207,207,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+208,208,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+209,209,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+210,210,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+211,211,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+212,212,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+213,213,Never smoked,0,2024-03-20 08:00:00
+214,214,Never smoked,0,2024-03-20 08:00:00
+215,215,Never smoked,0,2024-03-20 08:00:00
+216,216,Never smoked,1,2024-03-20 08:00:00
+217,217,Never smoked,0,2024-03-20 08:00:00
+218,218,Never smoked,0,2024-03-20 08:00:00
+219,219,Never smoked,0,2024-03-20 08:00:00
+220,220,Never smoked,3,2024-03-20 08:00:00
+221,221,Never smoked,2,2024-03-20 08:00:00
+222,222,Never smoked,2,2024-03-20 08:00:00
+223,223,Never smoked,2,2024-03-20 08:00:00
+224,224,Never smoked,2,2024-03-20 08:00:00
+225,225,Never smoked,2,2024-03-20 08:00:00
+226,226,Never smoked,2,2024-03-20 08:00:00
+227,227,Never smoked,0,2024-03-20 08:00:00
+228,228,Past smoker (stopped at least 6 months),1.5,2024-03-20 08:00:00
+229,229,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+230,230,Past smoker (stopped at least 6 months),14,2024-03-20 08:00:00
+231,231,Past smoker (stopped at least 6 months),18,2024-03-20 08:00:00
+232,232,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+233,233,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+234,234,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+235,235,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+236,236,Past smoker (stopped at least 6 months),63,2024-03-20 08:00:00
+237,237,Past smoker (stopped at least 6 months),20,2024-03-20 08:00:00
+238,238,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+239,239,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+240,240,Never smoked,0,2024-03-20 08:00:00
+241,241,Never smoked,0,2024-03-20 08:00:00
+242,242,Never smoked,0,2024-03-20 08:00:00
+243,243,Never smoked,0,2024-03-20 08:00:00
+244,244,Never smoked,0,2024-03-20 08:00:00
+245,245,Never smoked,1,2024-03-20 08:00:00
+246,246,Never smoked,0,2024-03-20 08:00:00
+247,247,Never smoked,0,2024-03-20 08:00:00
+248,248,Never smoked,0,2024-03-20 08:00:00
+249,249,Never smoked,0,2024-03-20 08:00:00
+250,250,Never smoked,0,2024-03-20 08:00:00
+251,251,Never smoked,0,2024-03-20 08:00:00
+252,252,Never smoked,0,2024-03-20 08:00:00
+253,253,Never smoked,0,2024-03-20 08:00:00
+254,254,Never smoked,0,2024-03-20 08:00:00
+255,255,Never smoked,0,2024-03-20 08:00:00
+256,256,Current smoker,0,2024-03-20 08:00:00
+257,257,Current smoker,2,2024-03-20 08:00:00
+258,258,Current smoker,0,2024-03-20 08:00:00
+259,259,Current smoker,0,2024-03-20 08:00:00
+260,260,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+261,261,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+262,262,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+263,263,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+264,264,Never smoked,0,2024-03-20 08:00:00
+265,265,Never smoked,1,2024-03-20 08:00:00
+266,266,Never smoked,0,2024-03-20 08:00:00
+267,267,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+268,268,Past smoker (stopped at least 6 months),4,2024-03-20 08:00:00
+269,269,Past smoker (stopped at least 6 months),6,2024-03-20 08:00:00
+270,270,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+271,271,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+272,272,Never smoked,3,2024-03-20 08:00:00
+273,273,Never smoked,4.5,2024-03-20 08:00:00
+274,274,Never smoked,5,2024-03-20 08:00:00
+275,275,Never smoked,12,2024-03-20 08:00:00
+276,276,Never smoked,0,2024-03-20 08:00:00
+277,277,Never smoked,0,2024-03-20 08:00:00
+278,278,Never smoked,0,2024-03-20 08:00:00
+279,279,Never smoked,0,2024-03-20 08:00:00
+280,280,Never smoked,0,2024-03-20 08:00:00
+281,281,Never smoked,0,2024-03-20 08:00:00
+282,282,Never smoked,0,2024-03-20 08:00:00
+283,283,Never smoked,0,2024-03-20 08:00:00
+284,284,Never smoked,0,2024-03-20 08:00:00
+285,285,Never smoked,1,2024-03-20 08:00:00
+286,286,Never smoked,0,2024-03-20 08:00:00
+287,287,Never smoked,0,2024-03-20 08:00:00
+288,288,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+289,289,Past smoker (stopped at least 6 months),2,2024-03-20 08:00:00
+290,290,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+291,291,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+292,292,Never smoked,1,2024-03-20 08:00:00
+293,293,Never smoked,1,2024-03-20 08:00:00
+294,294,Never smoked,1,2024-03-20 08:00:00
+295,295,Never smoked,0,2024-03-20 08:00:00
+296,296,Never smoked,3,2024-03-20 08:00:00
+297,297,Never smoked,1,2024-03-20 08:00:00
+298,298,Never smoked,0,2024-03-20 08:00:00
+299,299,Never smoked,0,2024-03-20 08:00:00
+300,300,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+301,301,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+302,302,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+303,303,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+304,304,Current smoker,2,2024-03-20 08:00:00
+305,305,Current smoker,3,2024-03-20 08:00:00
+306,306,Current smoker,1,2024-03-20 08:00:00
+307,307,Current smoker,1,2024-03-20 08:00:00
+308,308,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+309,309,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+310,310,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+311,311,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+312,312,Never smoked,1.5,2024-03-20 08:00:00
+313,313,Never smoked,1,2024-03-20 08:00:00
+314,314,Never smoked,0,2024-03-20 08:00:00
+315,315,Never smoked,1,2024-03-20 08:00:00
+316,316,Never smoked,0,2024-03-20 08:00:00
+317,317,Never smoked,1,2024-03-20 08:00:00
+318,318,Never smoked,0,2024-03-20 08:00:00
+319,319,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+320,320,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+321,321,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+322,322,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+323,323,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+324,324,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+325,325,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+326,326,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+327,327,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+328,328,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+329,329,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+330,330,Never smoked,0,2024-03-20 08:00:00
+331,331,Never smoked,0,2024-03-20 08:00:00
+332,332,Never smoked,0,2024-03-20 08:00:00
+333,333,Never smoked,1,2024-03-20 08:00:00
+334,334,Never smoked,0,2024-03-20 08:00:00
+335,335,Never smoked,0,2024-03-20 08:00:00
+336,336,Never smoked,0,2024-03-20 08:00:00
+337,337,Never smoked,3,2024-03-20 08:00:00
+338,338,Never smoked,2,2024-03-20 08:00:00
+339,339,Never smoked,2,2024-03-20 08:00:00
+340,340,Never smoked,2,2024-03-20 08:00:00
+341,341,Never smoked,2,2024-03-20 08:00:00
+342,342,Never smoked,2,2024-03-20 08:00:00
+343,343,Never smoked,2,2024-03-20 08:00:00
+344,344,Never smoked,0,2024-03-20 08:00:00
+345,345,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+346,346,Past smoker (stopped at least 6 months),63,2024-03-20 08:00:00
+347,347,Past smoker (stopped at least 6 months),20,2024-03-20 08:00:00
+348,348,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+349,349,Past smoker (stopped at least 6 months),21,2024-03-20 08:00:00
+350,350,Never smoked,0,2024-03-20 08:00:00
+351,351,Never smoked,0,2024-03-20 08:00:00
+352,352,Never smoked,0,2024-03-20 08:00:00
+353,353,Never smoked,0,2024-03-20 08:00:00
+354,354,Never smoked,0,2024-03-20 08:00:00
+355,355,Never smoked,1,2024-03-20 08:00:00
+356,356,Never smoked,0,2024-03-20 08:00:00
+357,357,Never smoked,0,2024-03-20 08:00:00
+358,358,Never smoked,0,2024-03-20 08:00:00
+359,359,Never smoked,0,2024-03-20 08:00:00
+360,360,Never smoked,0,2024-03-20 08:00:00
+361,361,Never smoked,0,2024-03-20 08:00:00
+362,362,Never smoked,0,2024-03-20 08:00:00
+363,363,Never smoked,0,2024-03-20 08:00:00
+364,364,Never smoked,0,2024-03-20 08:00:00
+365,365,Never smoked,0,2024-03-20 08:00:00
+366,366,Current smoker,0,2024-03-20 08:00:00
+367,367,Current smoker,2,2024-03-20 08:00:00
+368,368,Current smoker,0,2024-03-20 08:00:00
+369,369,Current smoker,0,2024-03-20 08:00:00
+370,370,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+371,371,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+372,372,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+373,373,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+374,374,Never smoked,0,2024-03-20 08:00:00
+375,375,Never smoked,1,2024-03-20 08:00:00
+376,376,Never smoked,0,2024-03-20 08:00:00
+377,377,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+378,378,Past smoker (stopped at least 6 months),4,2024-03-20 08:00:00
+379,379,Past smoker (stopped at least 6 months),6,2024-03-20 08:00:00
+380,380,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+381,381,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+382,382,Never smoked,3,2024-03-20 08:00:00
+383,383,Never smoked,4.5,2024-03-20 08:00:00
+384,384,Never smoked,5,2024-03-20 08:00:00
+385,385,Never smoked,12,2024-03-20 08:00:00
+386,386,Never smoked,0,2024-03-20 08:00:00
+387,387,Never smoked,0,2024-03-20 08:00:00
+388,388,Never smoked,0,2024-03-20 08:00:00
+389,389,Never smoked,0,2024-03-20 08:00:00
+390,390,Never smoked,0,2024-03-20 08:00:00
+391,391,Never smoked,0,2024-03-20 08:00:00
+392,392,Never smoked,0,2024-03-20 08:00:00
+393,393,Never smoked,0,2024-03-20 08:00:00
+394,394,Never smoked,0,2024-03-20 08:00:00
+395,395,Never smoked,1,2024-03-20 08:00:00
+396,396,Never smoked,0,2024-03-20 08:00:00
+397,397,Never smoked,0,2024-03-20 08:00:00
+398,398,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+399,399,Past smoker (stopped at least 6 months),2,2024-03-20 08:00:00
+400,400,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+401,401,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+402,402,Never smoked,1,2024-03-20 08:00:00
+403,403,Never smoked,1,2024-03-20 08:00:00
+404,404,Never smoked,1,2024-03-20 08:00:00
+405,405,Never smoked,0,2024-03-20 08:00:00
+406,406,Never smoked,3,2024-03-20 08:00:00
+407,407,Never smoked,1,2024-03-20 08:00:00
+408,408,Never smoked,0,2024-03-20 08:00:00
+409,409,Never smoked,0,2024-03-20 08:00:00
+410,410,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+411,411,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+412,412,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+413,413,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+414,414,Current smoker,2,2024-03-20 08:00:00
+415,415,Current smoker,3,2024-03-20 08:00:00
+416,416,Current smoker,1,2024-03-20 08:00:00
+417,417,Current smoker,1,2024-03-20 08:00:00
+418,418,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+419,419,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+420,420,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+421,421,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+422,422,Never smoked,1.5,2024-03-20 08:00:00
+423,423,Never smoked,1,2024-03-20 08:00:00
+424,424,Never smoked,0,2024-03-20 08:00:00
+425,425,Never smoked,1,2024-03-20 08:00:00
+426,426,Never smoked,0,2024-03-20 08:00:00
+427,427,Never smoked,1,2024-03-20 08:00:00
+428,428,Never smoked,0,2024-03-20 08:00:00
+429,429,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+430,430,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+431,431,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+432,432,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+433,433,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+434,434,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+435,435,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+436,436,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+437,437,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+438,438,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+439,439,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+440,440,Never smoked,0,2024-03-20 08:00:00
+441,441,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+442,442,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+443,443,Never smoked,1.5,2024-03-20 08:00:00
+444,444,Never smoked,1,2024-03-20 08:00:00
+445,445,Never smoked,0,2024-03-20 08:00:00
+446,446,Never smoked,1,2024-03-20 08:00:00
+447,447,Never smoked,0,2024-03-20 08:00:00
+448,448,Never smoked,1,2024-03-20 08:00:00
+449,449,Never smoked,0,2024-03-20 08:00:00
+450,450,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+451,451,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+452,452,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+453,453,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+454,454,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+455,455,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+456,456,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+457,457,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+458,458,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+459,459,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+460,460,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+461,461,Never smoked,0,2024-03-20 08:00:00
+462,462,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+463,463,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+464,464,Never smoked,1.5,2024-03-20 08:00:00
+465,465,Never smoked,1,2024-03-20 08:00:00
+466,466,Never smoked,0,2024-03-20 08:00:00
+467,467,Never smoked,1,2024-03-20 08:00:00
+468,468,Never smoked,0,2024-03-20 08:00:00
+469,469,Never smoked,1,2024-03-20 08:00:00
+470,470,Never smoked,0,2024-03-20 08:00:00
+471,471,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+472,472,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+473,473,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+474,474,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+475,475,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+476,476,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+477,477,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+478,478,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+479,479,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+480,480,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+481,481,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+482,482,Never smoked,0,2024-03-20 08:00:00
+483,483,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+484,484,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+485,485,Never smoked,1.5,2024-03-20 08:00:00
+486,486,Never smoked,1,2024-03-20 08:00:00
+487,487,Never smoked,0,2024-03-20 08:00:00
+488,488,Never smoked,1,2024-03-20 08:00:00
+489,489,Never smoked,0,2024-03-20 08:00:00
+490,490,Never smoked,1,2024-03-20 08:00:00
+491,491,Never smoked,0,2024-03-20 08:00:00
+492,492,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
+493,493,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+494,494,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+495,495,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+496,496,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+497,497,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+498,498,Past smoker (stopped at least 6 months),0,2024-03-20 08:00:00
+499,499,Past smoker (stopped at least 6 months),1,2024-03-20 08:00:00
+500,500,Past smoker (stopped at least 6 months),3,2024-03-20 08:00:00
